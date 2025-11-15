@@ -1,40 +1,62 @@
-<h1 align="center">Hi 👋, I'm Hiteshvari Prajapat</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm <b>Hiteshvari Prajapat</b></h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Expert;Frontend+%26+Backend+Developer;Next.js+Learner;Open+Source+Contributor;Code.+Build.+Repeat.&center=true&width=440&height=45&color=00FF99&vCenter=true&size=22" />
+  <strong>MERN Stack Developer | Frontend & Backend Engineer | Building Scalable Web Apps</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hiteshvari01&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  🚀 Passionate MERN Stack Developer with expertise in building modern web applications,  
+  scalable backends, and smooth user experiences using <b>React, Node.js, Express, and MongoDB</b>.
 </p>
 
 ---
 
-### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=Hiteshvari01&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" align="right" />
+<!-- Center Layout Section -->
+<table>
+<tr>
+<td width="60%">
+  
+### 🚀 About Me  
 
-- 💼 I’m currently working at **Synetal Solutions Private Limited**
-- 🔭 I’m working on **MERN Projects & API Development**
-- 🌱 Currently learning **Next.js**
-- 👨‍💻 All my projects are available on: [My GitHub Repos](https://github.com/Hiteshvari01)
-- 💬 Ask me about **JavaScript, MERN Stack, React, Backend Development**
-- 📫 Reach me at: **hiteshvari5544@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1-f034z1uyT5bLHfhMNXm7fpxuj5_KJB9/view?usp=drive_link)
-- ⚡ Fun fact: I love Clean UI & Smooth User Experience ✨
+- 💼 Currently working at **Synetal Solutions Private Limited**  
+- 🔭 Working on **MERN Projects & API Development**  
+- 🌱 Currently learning **Next.js**  
+- 🧠 Ask me about **JavaScript, MERN Stack, React, Backend Development**  
+- 📩 Reach me at: **hiteshvari5544@gmail.com**  
+- 📄 <a href="https://drive.google.com/file/d/1-f034z1uyT5bLHfhMNXm7fpxuj5_KJB9/view?usp=drive_link" target="_blank">View My Resume</a>  
+- ✨ Fun fact: I love clean UI & smooth user experience  
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</td>
+
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
+  <img src="https://img.icons8.com/ios-glyphs/60/9c9c9c/github.png" width="50px" />
+
 </p>
 
 ---
@@ -52,15 +74,22 @@
 ### 📫 Connect with Me
 
 <p align="center">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/hiteshvariprajapat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45px"/>
   </a>
-  <a href="mailto:hiteshvari5544@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Hiteshvari01" target="_blank" style="margin-left:15px;">
+    <img src="https://img.icons8.com/ios-glyphs/60/9c9c9c/github.png" width="45px"/>
   </a>
-  <a href="https://github.com/Hiteshvari01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- Gmail -->
+  <a href="mailto:hiteshvari5544@gmail.com" target="_blank" style="margin-left:15px;">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45px"/>
   </a>
+
 </p>
 
 ---
